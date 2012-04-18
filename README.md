@@ -4,7 +4,6 @@ Site Oficial da Biblioteca
 
 http://code.google.com/p/timthumb/
 
-
 # Exemplo de uso
 
     timthumb/?src=upload/image.jpg&w=100&h=100&zc=1
