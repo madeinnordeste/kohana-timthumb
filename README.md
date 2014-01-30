@@ -18,3 +18,7 @@ E ultilizar de maneira semelhante:
     
     thumb/?src=upload/image.jpg&w=100&h=100&zc=1
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/madeinnordeste/kohana-timthumb/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
